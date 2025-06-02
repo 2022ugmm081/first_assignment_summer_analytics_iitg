@@ -10,6 +10,22 @@ In this assignment, we were tasked with exploring and analyzing a dataset using 
 - Exploratory data analysis (EDA)
 - Basic statistics
 - Visualizations using `matplotlib` and `seaborn`
+## 🛠️ Technologies Used
+
+- Python 3.10+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/summer-analytics-assignment1.git
+   cd summer-analytics-assignment1
+
 
 
 
