@@ -1,6 +1,6 @@
 # Summer Analytics 2025 - Assignment 1
 
-Welcome! 👋 This repository contains my submission for **Assignment of week 1** of the **Summer Analytics 2025** program conducted by **IIT Guwahati**.
+Welcome! 👋 This repository contains my submission for **Assignment of week 1** of the **Summer Analytics 2025** program conducted by **Consulting and Analytics Culb IIT Guwahati**.
 
 ## 📌 Assignment Overview
 
